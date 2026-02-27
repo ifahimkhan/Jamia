@@ -47,7 +47,7 @@ All six HTML pages share the same `css/style.css` and `js/main.js`. There is no 
 All images in `images/` are WhatsApp exports with spaces and special characters in their names (e.g., `WhatsApp Image 2026-02-22 at 12.36.15 PM.jpeg`). When referencing them in HTML or CSS, URL-encode spaces as `%20` and parentheses as `%28`/`%29`:
 
 ```html
-<img src="images/WhatsApp%20Image%202026-02-22%20at%2012.36.15%20PM.jpeg" alt="...">
+<img src="images/2.jpeg" alt="...">
 ```
 
 There is a `logo.png` — inside images as the logo/hero. The image is suitable for a logo/hero.
