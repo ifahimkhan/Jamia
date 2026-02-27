@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -c c:/Users/i_fah/Downloads/Jamia/*.html)",
+      "Bash(ls -la c:/Users/i_fah/Downloads/Jamia/*.html)"
+    ]
+  }
+}
