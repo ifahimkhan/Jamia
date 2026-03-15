@@ -123,7 +123,7 @@ All interactivity lives in one file, structured around:
 | Teachers | 26 female (19 teaching staff) |
 | Campus | 35,000 sq. ft., Sibrampur, Uttar Dinajpur, WB 733209 |
 | Phone | +91 8170090117 / +91 7384969192 |
-| Email | jamianooriagulshanezahra@gmail.com |
+| Email | info@jamianooria.in |
 | Bank A/C Name | IMAM AHMED RAZA SUNNI HANAFI MUSLIM WELFARE EDUCATION SOCIETY |
 | Account No | 4929002100001280 |
 | IFSC | PUNB0492900 |

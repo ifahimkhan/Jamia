@@ -51,4 +51,4 @@ The `.nojekyll` file in the root ensures GitHub Pages does not process the site 
 **Jamia Nooria Gulshan-e-Zahra**
 Village Sibrampur, PO Galia, PS Chakulia, Dist Uttar Dinajpur, WB 733209
 📞 +91 8170090117 | +91 7384969192
-✉ jamianooriagulshanezahra@gmail.com
+✉ info@jamianooria.in
